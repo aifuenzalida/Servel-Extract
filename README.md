@@ -15,6 +15,10 @@ Con algunas mejoras, seguí con La Florida, ya que es una comuna que posee 3 cir
 ###Providencia (pendiente de subir)
 - Información correcta: 161.909 (99.92%)
 - Información erronea: 133 (0.08%)
+
+###Santiago Centro (pendiente de subir)
+- Información correcta: 282.694 (99.67%)
+- Información erronea: 950 (0.33%)
  
 ####Problemas detectados: 
 
