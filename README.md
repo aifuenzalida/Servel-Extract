@@ -13,8 +13,8 @@ Con algunas mejoras, seguí con La Florida, ya que es una comuna que posee 3 cir
 - Información erronea: 1.281 (0.44%)
 
 ###Providencia (pendiente de subir)
-- Información correcta: 162.003 (99.98%)
-- Información erronea: 39 (0.02%)
+- Información correcta: 161.909 (99.92%)
+- Información erronea: 133 (0.08%)
  
 ####Problemas detectados: 
 
