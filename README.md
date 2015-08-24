@@ -1,8 +1,8 @@
-##Servel-Extract
+#Servel-Extract
 Extrayendo la información que Servel provee. Para ello, se trabaja con PDF del Servel haciendo varias pruebas, obteniendo mejores resultados con pdftotext -table
 
-##Avances
-#Lo Espejo
+#Avances
+##Lo Espejo
 Con el script publicado en deerme.org he comenzado a procesar la data, comenzando con Lo Espejo (mi comuna).
 El resultado es el siguiente:
 Información correcta: 92.875 (99.93%)
