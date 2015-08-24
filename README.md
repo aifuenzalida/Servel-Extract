@@ -11,6 +11,10 @@ Con el script publicado en deerme.org he comenzado a procesar la data, comenzand
 Con algunas mejoras, seguí con La Florida, ya que es una comuna que posee 3 circunscripciones (Bellavista, San Jose de la Estrella y Trinidad). El resultado es el siguiente:
 - Información correcta: 288.390 (99.56%)
 - Información erronea: 1.281 (0.44%)
+
+###Providencia (pendiente de subir)
+- Información correcta: 162.003 (99.98%)
+- Información erronea: 39 (0.02%)
  
 ####Problemas detectados: 
 
