@@ -1,5 +1,7 @@
 ##Servel-Extract
-Extrayendo la información que Servel provee. Para ello, se trabaja con PDF del Servel haciendo varias pruebas, obteniendo mejores resultados con pdftotext -table
+Extrayendo la información que Servel provee. Para ello, se trabaja con PDF del Servel haciendo varias pruebas, obteniendo mejores resultados con pdftotext -table<br>
+Todos los datos fueron solicitados a Servel por medio de la Ley de Transparencia, y los PDF con el listado original lo pueden descargar deste este link: https://mega.nz/#F!UNEHxLjJ!rkoE4qHLvhhIo0KM6JLMZw<br>
+(La info no está disponible de momento en Servel.cl)
 
 ##Avances
 El orden de las comunas es por el orden de creación.
@@ -24,8 +26,6 @@ El orden de las comunas es por el orden de creación.
 |Pudahuel|A1321010|150.107|99,77%|342|00,23%|150.449|
 |**Total Parcial**||**1.940.686**|**99,58%**|**8.120**|**00,42%**|**1.948.806**|
 
-
-
 ####Problemas detectados: 
 
 - Direcciones muy largas, lo cual mezcla la información entre la dirección y la circunscripción (no le veo solución)
@@ -35,4 +35,3 @@ El orden de las comunas es por el orden de creación.
 
 ##Fuente de ayuda
 http://deerme.org/web-scraping-2/extraccion-de-datos-en-un-archico-pdf-de-forma-automatizada
-
